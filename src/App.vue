@@ -1,18 +1,3 @@
-<script setup>
-
-</script>
-
 <template>
-  <header>
-    <div class="wrapper">
-      <h1>Lets go!</h1>
-    </div>
-  </header>
-
+  <h1>Lets go!</h1>
 </template>
-
-<style scoped>
-
-
-
-</style>
